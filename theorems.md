@@ -1,6 +1,11 @@
-Sure! Here's a markdown table for Cornell Notes on circuit theorems:
+[<- Home ](./README.md)
 
-### Cornell Notes Template
+|**Subject**|**Topic**|
+|:---:|:---:|
+|**Electrical circuits**|**Circuit theorems**|
+
+<br/>
+<br/>
 
 | **Cues** | **Notes** |
 |----------|-----------|
